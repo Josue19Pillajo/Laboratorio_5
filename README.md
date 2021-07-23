@@ -52,6 +52,8 @@ Comprobar los resultados obtenidos teóricamente mediante una simulación realiz
 
 3.6  Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![seg](https://user-images.githubusercontent.com/84783236/126736470-b1b719b6-b8fd-4c1f-9303-938a3567e2a7.png)
+
 3.7 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![seg](https://user-images.githubusercontent.com/84783236/126722352-27364608-cc67-4b02-a3a4-4601994475f1.png)
@@ -69,6 +71,7 @@ Tabla 5.2. Comprobación del Teorema de Thévenin
 # Cálculos
 
 ![WhatsApp Image 2021-07-22 at 22 18 27](https://user-images.githubusercontent.com/84783236/126733894-0b23ea1d-c99d-4acc-be17-6b957753dafd.jpeg)
+
 ![ter](https://user-images.githubusercontent.com/84783236/126733819-af5269bc-308f-4ffd-a8f1-023e0d2193d4.png)
 ![WhatsApp Image 2021-07-22 at 22 30 59](https://user-images.githubusercontent.com/84783236/126734519-2a7e2bb7-c8a8-4cf0-b989-a5f56a5e2e6b.jpeg)
 
