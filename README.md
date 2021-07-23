@@ -80,6 +80,7 @@ CALCÚLOS DE ERROR
 
 # 5  VIDEO
 
+https://www.youtube.com/watch?v=_AE8c4HYPRQ
 
 # 6. CONCLUSIONES
 
