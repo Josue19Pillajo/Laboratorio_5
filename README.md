@@ -75,6 +75,8 @@ Tabla 5.2. Comprobación del Teorema de Thévenin
 ![ter](https://user-images.githubusercontent.com/84783236/126733819-af5269bc-308f-4ffd-a8f1-023e0d2193d4.png)
 ![WhatsApp Image 2021-07-22 at 22 30 59](https://user-images.githubusercontent.com/84783236/126734519-2a7e2bb7-c8a8-4cf0-b989-a5f56a5e2e6b.jpeg)
 
+CALCÚLOS DE ERROR 
+![WhatsApp Image 2021-07-23 at 06 55 10](https://user-images.githubusercontent.com/84783236/126778314-1407306c-72b4-45cf-8489-277908b34184.jpeg)
 
 # 5  VIDEO
 
